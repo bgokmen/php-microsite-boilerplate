@@ -36,10 +36,10 @@ $directus_user = ''; // Set user email and password only, if you need to access 
 $directus_password = ''; // If you store your code in a repo, consider using a masked environment variable here.
 
 // Base URL of your microsite.
-$the_page_url = 'https://YOURDOMAIN.com/';
+$the_page_url = 'https://www.cellashaving.com/';
 
 // PWA settings.
-$the_webapp_name = 'Put the name for the webapp here'; // Mind manifest.json too.
+$the_webapp_name = 'Cella SHaving'; // Mind manifest.json too.
 $the_webapp_status = true; // Set false to disable PWA (does not impact the serviceworker cache). Also delete the manifest.json to make sure it is not recognized as potential PWA.
 $the_theme_color = '#008c48'; // Mind manifest.json too.
 
